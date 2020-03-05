@@ -377,8 +377,8 @@ font-family: 'Lobster', cursive;
 }
 
 .polaroid {
-  width: 220px;
-  height: 240px;
+  width: 150px;
+  height: 180px;
   position: absolute;
   float: left;
   background: #1e1c18;
